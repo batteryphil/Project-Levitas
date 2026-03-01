@@ -1,0 +1,11 @@
+<f1r.P1;ZL> fachys ykal ar ataiin shol dary daiin saba sel
+<f1r.P2;ZL> qokedy qokedy dal dyty dary kydy shedy
+<f1r.P3;ZL> ol shedy qokedy qokedy dary daiin saba sel
+<f1r.P4;ZL> chor fchy fchy kory kory kory kory kory kory
+<f2v.P1;RF> tceor chor ghardy shody qokol dary
+<f3r.ST1;ZL> RA1234DEC5678 aster_motif
+<f67r1;RF> botanical_motif_42 herba_viridalis
+<f68v1;ZL> xchor chor fchy fchy kory kory kory
+<f75r.P1;RF> dary daiin saba sel qokedy dal dyty
+<f82r.P1;ZL> shedy ol shedy qokedy qokedy dary
+EVA Transcription Segment - 2026 Real-World Simulation.
