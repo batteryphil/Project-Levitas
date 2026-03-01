@@ -1,0 +1,81 @@
+======================================================================
+PHASE 17: ROSETTA GRID GENETIC OPTIMIZATION (Target: Folio 67)
+Aperture: 2x4 | Dictionary: 986 words
+----------------------------------------------------------------------
+Loaded 65 lines. Initiating evolution...
+Gen 000 | Fit:    -8271.5 | Snippet: dhbmmyx nhs bohasns sphf sdsshs nhs bohf m yx
+Gen 020 | Fit:    -7458.1 | Snippet: oqaigrm xqm akinwsm weil sojwqm xqm akil i rm
+Gen 040 | Fit:    -6856.0 | Snippet: oqaigrm xqm abinlsm leil sojlqm xqm abil i rm
+Gen 060 | Fit:    -6473.2 | Snippet: opaigim xps abinlss leil soklps xps abil i im
+Gen 080 | Fit:    -6171.2 | Snippet: opaigim xps abinlss leil soklps xps abil i im
+Gen 100 | Fit:    -5894.8 | Snippet: opaigim xps abinlss leil soklps xps abil i im
+Gen 120 | Fit:    -5685.6 | Snippet: opaigim xps abinlss leil soklps xps abil i im
+Gen 140 | Fit:    -5442.0 | Snippet: otaigim xts abinlss leil soklts xts abil i im
+Gen 160 | Fit:    -5258.2 | Snippet: otaigim cts abinles lein soklts cts abin i im
+Gen 180 | Fit:    -5073.5 | Snippet: otaitim cts abinles lein soklts cts abin i im
+Gen 200 | Fit:    -4919.6 | Snippet: otaitim cts abinles lein soklts cts abin i im
+Gen 220 | Fit:    -4788.7 | Snippet: otaitim cts abinles lein soalts cts abin i im
+Gen 240 | Fit:    -4643.3 | Snippet: otaitim its abinles lein soalts its abin i im
+  Matches: ['its', 'its']
+Gen 260 | Fit:    -4575.2 | Snippet: otaitim its abinles lein soalts its abin i im
+  Matches: ['its', 'its']
+Gen 280 | Fit:    -4487.6 | Snippet: otaimim its abinles lein soults its abin i im
+  Matches: ['its', 'its']
+Gen 300 | Fit:    -4426.6 | Snippet: otaimim its aninles lein soults its anin i im
+  Matches: ['its', 'its']
+Gen 320 | Fit:    -4358.2 | Snippet: otaimin its aninles lein soults its anin i in
+  Matches: ['its', 'its']
+Gen 340 | Fit:    -4285.8 | Snippet: otaimin its aninles lein soults its anin i in
+  Matches: ['its', 'its']
+Gen 360 | Fit:    -4198.7 | Snippet: otaimin its aninles lein soults its anin i in
+  Matches: ['its', 'its']
+Gen 380 | Fit:    -4120.3 | Snippet: otaimin its aninles lein soults its anin i in
+  Matches: ['its', 'its']
+Gen 400 | Fit:    -4076.3 | Snippet: otaimin its aninles lein soelts its anin i in
+  Matches: ['its', 'its']
+Gen 420 | Fit:    -4013.8 | Snippet: otaimin its aninles lein soelts its anin i in
+  Matches: ['its', 'its']
+Gen 440 | Fit:    -3981.0 | Snippet: otaimin its aninles lein soelts its anin i in
+  Matches: ['its', 'its']
+Gen 460 | Fit:    -3929.7 | Snippet: otaimin its anisles lein soults its anin i in
+  Matches: ['its', 'its']
+Gen 480 | Fit:    -3896.0 | Snippet: otaimin its anisles lein soults its anin i in
+  Matches: ['its', 'its']
+
+======================================================================
+OPTIMIZATION COMPLETE
+----------------------------------------------------------------------
+Final Decryption Pass (Raw Syllables):
+L01 (Raw): otaimin its anisles lein sonlts its anin i in
+L02 (Raw): arat naerms enoioeo ore remerms rioes aeos ion ioermii
+L03 (Raw): amee s eth meet an esetee ar it fees masan sap
+L04 (Raw): ieaman artres s as aw s a as ires laws irs
+L05 (Raw): on runri was prionas sanare ri nmermia preoms ri pmeriia prions rirn emps olon re neo anas tremna rpos t n naeri s prionas pres riot trn ri arera opaeo onin nin notoms are are in nmrenin sareno
+L06 (Raw): lit as meet lit eesis tet lis spes salt areet t sa eselis seseda esid dit ar memar eseesa eptelis a ssa sessa ep mes it seer eseer en seera ara eree remt epea tsea set lis lic se mar itsa
+L07 (Raw): asiea l pawtes ameah irares atraiels ateinas mas alan atrasal sames law stes ameah ameeh amea atrees grates atralan iaterm has aws ama trelas leets ates tralaw ietis laws imalaw
+L08 (Raw): minins itns min liain min sitims tleit isaleis ions min mimis siie ins eatiim lalis oines
+L09 (Raw): steh stiah stish alaw stria arsessls hrs is atas irtis hstah steans atis irs stish itilal stas stans rtistis atal its istil is
+L10 (Raw): selis lic la etmeed an mese tit lidic
+L11 (Raw): anleran s am anms saes man anys lanisals
+L12 (Raw): leit ioic lttit s lacts minises tiab ein ein
+L13 (Raw): smono in re its onis tinii tin ra en nare
+L14 (Raw): elers titsam semar eced an alit
+L15 (Raw): straas sma stal atral an aw atam aw
+
+----------------------------------------------------------------------
+Final Decryption Pass (Lexical Filter Applied):
+L01 (Clean): otaimin its anisles lein solis its anin i in
+L02 (Clean): arat naerms enoioeo ore remerms rioes aeos ion ioermii
+L03 (Clean): amee s eth meet an esset ar it fees masan sap
+L04 (Clean): ieaman partes s as aw s a as tres laws irs
+L05 (Clean): on runri was prionas sanare ri nmermia preoms ri pmeriia prions rirn emps olon re neo anas tremna rpos t n naeri s prionas partes riot trn ri arera opaeo onin nin notoms are are in nmrenin sareno
+L06 (Clean): lit as meet lit eesis tet solis spes salt areet t sa solis seseda esid dit ar memar eseesa eptelis a ssa sessa ep mes it seer eseer en seera astra eree remt epea tsea esset solis lic se mar itsa
+L07 (Clean): asiea l partes ameah irares atraiels ateinas mas alan atrasal sames law tres ameah ameeh amea tres grates atralan iaterm has aws ama tres leets partes tralaw ietis laws imalaw
+L08 (Clean): omnis itns min liain min sitims tleit isaleis ions min mimis siie ins eatiim lalis oines
+L09 (Clean): steh stiah stish alaw astra arsessls hrs is atas irtis hstah steans atis irs stish itilal stas stans rtistis atal its istil is
+L10 (Clean): solis lic la etmeed an mese tit lidic
+L11 (Clean): anleran s am anms saes man anys lanisals
+L12 (Clean): leit ioic lttit s lacts minises tiab ein ein
+L13 (Clean): smono in re its omnis tinii tin ra en nare
+L14 (Clean): elers istam semar eced an alit
+L15 (Clean): astra sma stal astra an aw atam aw

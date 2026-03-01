@@ -1,0 +1,31 @@
+Loading input: /home/phil/.gemini/antigravity/scratch/levitas-engine/data/voynich_full_corpus.txt
+Filtering Folios: 67 to 73
+======================================================================
+EXPERIMENT 14: 2D Dimensional Brute-Force 'Aperture Search'
+Data size: 12932 tokens
+----------------------------------------------------------------------
+H    | W    | Avg Max-Char Prob    | Valid Cells
+----------------------------------------------------------------------
+  1  |  7  |          0.18086       |  7
+  2  |  4  |          0.18075       |  8
+  8  |  9  |          0.18033       |  64
+  7  |  9  |          0.18030       |  56
+  1  |  8  |          0.17950       |  8
+  8  |  7  |          0.17882       |  55
+  9  |  8  |          0.17856       |  71
+  7  |  8  |          0.17834       |  51
+  7  |  6  |          0.17776       |  42
+  8  |  8  |          0.17756       |  59
+  7  |  7  |          0.17754       |  48
+  1  |  6  |          0.17700       |  6
+  2  |  3  |          0.17700       |  6
+  4  |  2  |          0.17700       |  8
+  5  |  9  |          0.17618       |  45
+  9  |  9  |          0.17608       |  78
+  8  |  6  |          0.17557       |  48
+  4  |  7  |          0.17553       |  28
+  5  |  8  |          0.17549       |  40
+  9  |  6  |          0.17511       |  54
+
+>>> 2D DIMENSIONAL RESONANCE DETECTED AT: (H=1, W=7) <<<
+    This suggests physical dimensions of 7x1 for this section.

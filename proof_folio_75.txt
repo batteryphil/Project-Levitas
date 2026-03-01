@@ -1,0 +1,87 @@
+======================================================================
+PHASE 17: ROSETTA GRID GENETIC OPTIMIZATION (Target: Folio 75)
+Aperture: 2x3 | Dictionary: 986 words
+----------------------------------------------------------------------
+Loaded 92 lines. Initiating evolution...
+Gen 000 | Fit:   -12337.7 | Snippet: sbaqsitzs rins oritz dsiunis oratz pajs
+Gen 020 | Fit:   -10942.3 | Snippet: skapsetys rena brety dseusia brety fags
+Gen 040 | Fit:    -9823.0 | Snippet: skapsetys rena brety dseusia brety fags
+Gen 060 | Fit:    -8934.3 | Snippet: seassetys rens prety dseusis prety wads
+Gen 080 | Fit:    -8451.5 | Snippet: seassetys rens prety dseusis prety wads
+Gen 100 | Fit:    -8091.8 | Snippet: seassetys rens prety dseusis prety wads
+Gen 120 | Fit:    -7796.7 | Snippet: seassetys rens prety dseusis prety wads
+Gen 140 | Fit:    -7491.9 | Snippet: seassetys rens prety hseusis prety wats
+Gen 160 | Fit:    -7221.0 | Snippet: seassetys rens prety hseusis prety wats
+Gen 180 | Fit:    -7013.3 | Snippet: seassetys rees prety hseusis prety ways
+  Matches: ['ways']
+
+======================================================================
+OPTIMIZATION COMPLETE
+----------------------------------------------------------------------
+Final Decryption Pass (Raw Syllables):
+L01 (Raw): seassetys rees prety hseusis prety ways
+L02 (Raw): ies ats rs doter nerutis siossth sisitis heh
+L03 (Raw): tians rnt eerts tts ans itias tsre itare ia
+L04 (Raw): eifs esir sees eoss sin es has es oss nesse
+L05 (Raw): atssth sis pis h es er er aris nesss ness
+L06 (Raw): hdis alia edas are iats tians rbs tialus reas
+L07 (Raw): heass nesdis ssin usis prety es nen usis pres
+L08 (Raw): neh uts iesehos utips ieses ups rties esitis
+L09 (Raw): tiadus dts de tiatus rearj airs tiana ed dias tnt
+L10 (Raw): ehry prety ees has prete ezs ss reas eass neass
+L11 (Raw): iesris nesti ers nessos is nestr eseh atis oth sisth
+L12 (Raw): tairs tiant eds its a ed dls ais hs ed aias tias
+L13 (Raw): heass sses preass nesses preass nessis prete enhass
+L14 (Raw): neh tr ssts ieses is ertios ieses ups ieses esth ers
+L15 (Raw): tns tians titalits lre dias tit ee aias earas tias
+
+----------------------------------------------------------------------
+Final Decryption Pass (Lexical Filter Applied):
+L01 (Clean): esset tres prety hseusis prety ways
+L02 (Clean): ies ats rs doter nerutis siossth sisitis heh
+L03 (Clean): tians rnt eerts tts ans itias tres itare ia
+L04 (Clean): eifs esir sees eoss sin es has es oss esset
+L05 (Clean): atssth solis pis h es er er aris nes ness
+L06 (Clean): hdis gallia edas are iats tians rbs tialus tres
+L07 (Clean): heass nesdis ssin usis prety es nen usis partes
+L08 (Clean): neh uts iesehos utips ieses ups partes esitis
+L09 (Clean): tiadus dts de tiatus rearj airs tiana ed dias tnt
+L10 (Clean): ehry prety ees has partes ezs ss tres eass neass
+L11 (Clean): iesris nesti ers nessos is nestr eseh atis oth sisth
+L12 (Clean): tairs tiant eds its a ed dls ais hs ed aias tias
+L13 (Clean): heass sses preass esset preass nessis partes enhass
+L14 (Clean): neh tr ssts ieses is ertios ieses ups ieses esth ers
+L15 (Clean): tns tians titalits lre dias tit ee aias earas tias
+
+L02 (Raw): hehe thopes ctereoe ees posopes peeos hoes ret reopene
+L03 (Raw): same e irs ames ne eresem nt at meme inene end
+L04 (Raw): alalow aerela i on ap i a on sela main kes
+L05 (Raw): et estpe phs apreths shther pe tsopens apiees pe asoprns apenis pept oras rort es ive rths eposth purs e t thope s apeeths apis prne ept er hesed earoe rint int ineres hes res nt tsesint sheste
+L06 (Raw): has ne amet hat peras set has mose ence somes t ms enehas menews enay was nt amint eremes porehas s mes menas po ipe at mept erept ep memos nts pome omis plms emes met hab has me int ates
+L07 (Raw): onala s deiras eplan seeela areealss eelaion lon asal areeias iepla sap aras eplan eplan epla areles seeela areesal aeelel non aws epe relsai mlara aras reesap alesa sain siasal
+L08 (Raw): teneda isis sed conin sen sonita tcoll isocili itis ted sised solo eda ontlis cocos tenis
+L09 (Raw): aran sesan sesan asal aresa arilisss nes mi aron meras naran selaia aras ses sesan sessas aron seals remaras eeas ara asiss as
+L10 (Raw): nehas has hs esapey ne apae sat hawas
+L11 (Raw): awsleel i on alla ieas law elia selsiess
+L12 (Raw): cili itin ctsem s costs sidedis dios eli ili
+L13 (Raw): serte ne es nos rtus entne ene ed rt ther
+L14 (Raw): paptm satent epint eney ne shat
+L15 (Raw): areean spe sees arees ow al aron al
+
+----------------------------------------------------------------------
+Final Decryption Pass (Lexical Filter Applied):
+L01 (Clean): ttnitee its nelecis coli aticts its neli i ee
+L02 (Clean): hehe thopes ctereoe ees posopes peeos hoes ret reopene
+L03 (Clean): same e irs ames ne eresem nt at meme inene end
+L04 (Clean): alalow aerela i on ap i a on stella main kes
+L05 (Clean): et estpe phs apreths shther pe tsopens apiees pe asoprns apenis pept oras rort es ive rths eposth purs e t thope s apeeths apis prne ept er hesed earoe rint int ineres hes tres nt tsesint sheste
+L06 (Clean): has ne amet hat peras esset has mose ence somes t ms enehas menews enay was nt amint eremes porehas s mes menas po ipe at mept erept ep memos nts pome omnis plms emes met hab has me int partes
+L07 (Clean): onala s deiras eplan stella areealss eelaion lon asal areeias iepla sap aras eplan eplan epla areles stella areesal aeelel non aws epe relsai mlara aras reesap alesa sain siasal
+L08 (Clean): teneda isis sed conin senum sonita tcoll isocili itis ted sised solo eda solis cocos tenis
+L09 (Clean): aran sesan sesan asal partes arilis nes mi aron meras naran selaia aras ses sesan sessas aron seals remaras eeas astra asiss as
+L10 (Clean): nehas has hs esapey ne apae sat hawas
+L11 (Clean): awsleel i on gallia ieas law elia selsiess
+L12 (Clean): cili itin ctsem s costs sidedis dios eli ili
+L13 (Clean): serte ne es nos rtus entne ene ed rt ther
+L14 (Clean): paptm satent epint eney ne shat
+L15 (Clean): areean spe sees partes ow al aron al

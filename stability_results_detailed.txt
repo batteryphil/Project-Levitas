@@ -1,0 +1,9 @@
+======================================================================
+FIXED-PARAMETER STABILITY TEST (PHASE 10)
+----------------------------------------------------------------------
+Folio      | Log-Prob        | Snippet
+----------------------------------------------------------------------
+67         | -4.0950         | sreerom 2ra eresana aseh sseara
+68         | -4.1187         | 2epra arera aesres har reen
+69         | -4.0432         | sreras ies eiom ara 3ra
+70         | -4.1182         | aeaeaeaearet sete
