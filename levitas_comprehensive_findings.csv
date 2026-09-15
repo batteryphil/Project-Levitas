@@ -1,0 +1,11 @@
+train_r2,train_mse,formula,discovery_gen,latency_sec,unique_explorations,battery,target
+0.21820588778530448,907.6970367006707,189.99562 - 3.25645*exp(sqrt(exp(sin(X1 + X4)) + log(2*X1 + 2*X2) + log(2*X1 + X2 + X4))),58,17.632725761970505,8,Battery 1: Currier Hand Split,Currier Hand A (Herbal f1-66)
+0.33651756315109604,627.1375286743058,79.6593 - 37.54383*sin(sin(sin(sin(sin(sin(sin(exp(exp(sin(exp(sin(exp(cos(X1/2)))))))))))))),57,11.373316237004474,8,Battery 1: Currier Hand Split,"Currier Hand B (Bio/Recipes f75-84,103-116)"
+0.5178775849605672,0.09538102342953572,21.65964*X1 - 0.39793,0,0.8720348380738869,1,Battery 1: Currier Hand Split,"Folio Hand Discriminant D(q, y, e)"
+0.641158578418414,1.624409338346452e-05,0.02126*X4 + 0.03669,6,0.8761272069532424,1,Battery 2: Line-Position Dynamics,Gallows Distribution P(gallows | p)
+0.5446177721252623,0.00027100231790699473,0.07105*X4 + 0.21729,6,0.8753473269753158,1,Battery 2: Line-Position Dynamics,Suffix Distribution P(suffix | p)
+0.011040187791456213,1656454.9701151424,3564.89954 - 2718.63991*cos(log(log(-X1/2 + sqrt(cos((X1 - X2)**2/(2*X2*(X1 - 1))))))/4),13,3.310972439008765,8,Battery 3: Word-Level Recurrence,"Voynich Word Sequence Recurrence w_t = f(w_{t-1}, w_{t-2})"
+0.18380977817927457,0.002655251978790469,0.01639 - 0.11499*X4,5,0.7314827290829271,1,Battery 4: Auto-Correlation Decay,Voynich Long-Range Auto-Correlation C(tau)
+0.8621501605698679,0.00015741674802030616,0.01262 - 0.16536*X3,4,0.7307016750564799,1,Battery 4: Auto-Correlation Decay,Latin Long-Range Auto-Correlation C(tau)
+0.008478510518772575,973.4576211595238,2.48706*log(-sqrt(X1)*X3/2 - X3*cos(X2/X4 + sin(sqrt(X5/X2)))/2 - X4/2) + 81.99313,54,1.8295743520138785,8,Battery 5: Polar Symmetry,"Folio 67 Concentric Wheel Polar Harmonics (k=12 Zodiac, k=28 Lunar)"
+0.9718323301685537,5.044244004924213e-05,0.97454*X1 + 0.00071,0,0.7067758580669761,1,Battery 6: Slot-Grammar Dependency,"Prefix-Suffix Joint Probability P(p, s) vs Independent Product P(p)*P(s)"

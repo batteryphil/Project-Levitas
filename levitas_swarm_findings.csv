@@ -1,0 +1,18 @@
+train_r2,train_mse,formula,discovery_gen,latency_sec,unique_explorations,experiment,target
+0.14731789457819955,1004.7575608031805,91.36174 - 3.56601*exp(4*sin(sin(sin(sin(sin(sin(sin(X1 + X4)))))))),34,3.0791583659593016,8,Autoregressive Recurrence,Voynich Full Corpus
+0.17191050506402095,811.5360448891739,120.26715*cos(cos(cos(exp(cos(X1 - 1) - cos(exp((X1*cos(X1 - 1) + X4)/X1)))))) - 10.5974,57,52.44264474592637,7,Autoregressive Recurrence,Voynich Astronomical (f67-73)
+0.28312005728974676,676.858421178511,128.31839 - 0.69678*(log(X1*X2) + 2*cos(X1)*cos(X4) + cos(X1*X2))**2,59,116.04375327494927,8,Autoregressive Recurrence,Voynich Biological (f75-84)
+0.3165806023232486,629.1840831233469,108.748490000000,58,3.9521003330592066,8,Autoregressive Recurrence,Classical Latin (Perseus)
+0.005985348971586424,165.62212879900125,-1.41846*X4 + 1.41846*log(exp(X2 - X4 - 1)) + 2.79231,28,1.4494666329119354,7,Autoregressive Recurrence,Homophonic Latin Cipher
+0.008375941192119707,55.643473161901966,110.2372 - 0.00549*(X1 - X2)**2,10,1.059388878988102,3,Autoregressive Recurrence,Mechanical 3x2 Grille (GT)
+0.10584183142805392,589.3601487034413,0.00046*X1**2/cos(exp(4*sin(X1**2))) + 82.82595,22,2.5675849890103564,7,Autoregressive Recurrence,Synthetic Markov Voynich
+0.0286345382686517,54.46485682387424,(110.11474*X2 - 0.08537*X3*(X4**2 + X4 - X5))/X2,2,1.776365639991127,7,Spatial Coordinate Invariant,Mechanical 3x2 Grille (GT)
+0.011921724878908191,985.5249820503514,0.01052*X1*X4/(X4 - 1) + 81.65243 + 0.01052*X2/X1,15,2.5708098729373887,8,Spatial Coordinate Invariant,Voynich Folio 67 (Wheel/Rosette)
+0.011856916664029993,967.721153315688,110.50363 - 11.03174*exp(cos(2*cos(X1**4 + X2 - X5)/X1)),48,1.6835587229579687,7,Spatial Coordinate Invariant,Voynich Astronomical (f67-73)
+0.022537381624823105,922.8098191719832,(75.44749*X1 + 65.98285*X4 + 18.92928*log((X1 + X2)/((X1 + X3)*sqrt(sin(exp(X1 + X4))))))/(X1 + X4),56,1.9720975550590083,7,Spatial Coordinate Invariant,Voynich Biological (f75)
+0.04642428680124855,876.9139570764664,108.459010000000,59,1.3226350139593706,8,Spatial Coordinate Invariant,Classical Latin Grid Control
+0.9996752726446154,61.816768108810315,136.97627*log(X3*sqrt(sqrt(((X1 - X2)*(X3 - 1))**(1/4)*(X1 - X2))*(X1 - X2))/X4) + 488.69005,50,1.0363263179315254,7,Heaps Law Growth Equation,Voynich Full Corpus (v101)
+0.9986785968707702,15.162843968414242,8.24792*pi*(X2 - X4) - 8.24792*(sqrt(X2**2)*sin(sqrt(X2 - X4)) - 2)**2 + 459.03686,43,1.2527909349882975,6,Heaps Law Growth Equation,Classical Latin (Perseus)
+0.9993725947078658,89.65779783014959,1256.89207*exp(sin(X1*X4)) - 1362.7528,6,0.81391851301305,2,Heaps Law Growth Equation,Homophonic Latin Cipher
+0.50337065707081,0.00372915194703837,0.18051 - 0.01423*X1,0,0.7033997549442574,1,Word-Length Distribution,Voynich Word Length P(L)
+0.5655001833366253,0.0010005160436890308,0.10857 - 0.00051*X2,0,0.7362772841006517,1,Word-Length Distribution,Latin Word Length P(L)
